@@ -1,0 +1,13 @@
+C:\Users\Firas\Documents\workspace-spring-tool-suite-4-4.12.0.RELEASE\user-microservice\src\main\java\com\firas\users\security\JWTAuthorizationFilter.java
+C:\Users\Firas\Documents\workspace-spring-tool-suite-4-4.12.0.RELEASE\user-microservice\src\main\java\com\firas\users\security\SecurityConfig.java
+C:\Users\Firas\Documents\workspace-spring-tool-suite-4-4.12.0.RELEASE\user-microservice\src\main\java\com\firas\users\UserMicroserviceApplication.java
+C:\Users\Firas\Documents\workspace-spring-tool-suite-4-4.12.0.RELEASE\user-microservice\src\main\java\com\firas\users\entities\User.java
+C:\Users\Firas\Documents\workspace-spring-tool-suite-4-4.12.0.RELEASE\user-microservice\src\main\java\com\firas\users\security\SecParams.java
+C:\Users\Firas\Documents\workspace-spring-tool-suite-4-4.12.0.RELEASE\user-microservice\src\main\java\com\firas\users\service\UserServiceImpl.java
+C:\Users\Firas\Documents\workspace-spring-tool-suite-4-4.12.0.RELEASE\user-microservice\src\main\java\com\firas\users\restControllers\UserRESTController.java
+C:\Users\Firas\Documents\workspace-spring-tool-suite-4-4.12.0.RELEASE\user-microservice\src\main\java\com\firas\users\repos\RoleRepository.java
+C:\Users\Firas\Documents\workspace-spring-tool-suite-4-4.12.0.RELEASE\user-microservice\src\main\java\com\firas\users\entities\Role.java
+C:\Users\Firas\Documents\workspace-spring-tool-suite-4-4.12.0.RELEASE\user-microservice\src\main\java\com\firas\users\service\UserService.java
+C:\Users\Firas\Documents\workspace-spring-tool-suite-4-4.12.0.RELEASE\user-microservice\src\main\java\com\firas\users\security\JWTAuthenticationFilter.java
+C:\Users\Firas\Documents\workspace-spring-tool-suite-4-4.12.0.RELEASE\user-microservice\src\main\java\com\firas\users\security\MyUserDetailsService.java
+C:\Users\Firas\Documents\workspace-spring-tool-suite-4-4.12.0.RELEASE\user-microservice\src\main\java\com\firas\users\repos\UserRepository.java
